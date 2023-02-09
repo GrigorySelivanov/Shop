@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Shop\Shop_Utility\bin\Debug\net7.0\Shop_Utility.deps.json
+C:\Users\user\source\repos\Shop\Shop_Utility\bin\Debug\net7.0\Shop_Utility.dll
+C:\Users\user\source\repos\Shop\Shop_Utility\bin\Debug\net7.0\Shop_Utility.pdb
+C:\Users\user\source\repos\Shop\Shop_Utility\obj\Debug\net7.0\Shop_Utility.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Shop\Shop_Utility\obj\Debug\net7.0\Shop_Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Shop\Shop_Utility\obj\Debug\net7.0\Shop_Utility.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Shop\Shop_Utility\obj\Debug\net7.0\Shop_Utility.AssemblyInfo.cs
+C:\Users\user\source\repos\Shop\Shop_Utility\obj\Debug\net7.0\Shop_Utility.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Shop\Shop_Utility\obj\Debug\net7.0\Shop_Utility.dll
+C:\Users\user\source\repos\Shop\Shop_Utility\obj\Debug\net7.0\refint\Shop_Utility.dll
+C:\Users\user\source\repos\Shop\Shop_Utility\obj\Debug\net7.0\Shop_Utility.pdb
+C:\Users\user\source\repos\Shop\Shop_Utility\obj\Debug\net7.0\ref\Shop_Utility.dll

@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Shop\Shop_DataAccess\bin\Debug\net7.0\Shop_DataAccess.deps.json
+C:\Users\user\source\repos\Shop\Shop_DataAccess\bin\Debug\net7.0\Shop_DataAccess.dll
+C:\Users\user\source\repos\Shop\Shop_DataAccess\bin\Debug\net7.0\Shop_DataAccess.pdb
+C:\Users\user\source\repos\Shop\Shop_DataAccess\bin\Debug\net7.0\Shop_Models.dll
+C:\Users\user\source\repos\Shop\Shop_DataAccess\bin\Debug\net7.0\Shop_Models.pdb
+C:\Users\user\source\repos\Shop\Shop_DataAccess\obj\Debug\net7.0\Shop_DataAccess.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Shop\Shop_DataAccess\obj\Debug\net7.0\Shop_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Shop\Shop_DataAccess\obj\Debug\net7.0\Shop_DataAccess.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Shop\Shop_DataAccess\obj\Debug\net7.0\Shop_DataAccess.AssemblyInfo.cs
+C:\Users\user\source\repos\Shop\Shop_DataAccess\obj\Debug\net7.0\Shop_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Shop\Shop_DataAccess\obj\Debug\net7.0\Shop_DataAccess.csproj.CopyComplete
+C:\Users\user\source\repos\Shop\Shop_DataAccess\obj\Debug\net7.0\Shop_DataAccess.dll
+C:\Users\user\source\repos\Shop\Shop_DataAccess\obj\Debug\net7.0\refint\Shop_DataAccess.dll
+C:\Users\user\source\repos\Shop\Shop_DataAccess\obj\Debug\net7.0\Shop_DataAccess.pdb
+C:\Users\user\source\repos\Shop\Shop_DataAccess\obj\Debug\net7.0\ref\Shop_DataAccess.dll
